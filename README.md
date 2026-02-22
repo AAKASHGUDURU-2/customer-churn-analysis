@@ -1,7 +1,7 @@
 **Customer Churn Analysis**
 
 Project Description:
-Customer churn and revenue analysis project using SQL and Python to identify churn drivers, high-risk customer segments, and revenue loss patterns in a subscription-based telecom business. Generated data-driven insights and retention recommendations based on contract type, tenure, and pricing behavior.
+Customer churn and revenue analysis project using SQL, Pytho and tableau. Python to identify churn drivers, high-risk customer segments, and revenue loss patterns in a subscription-based telecom business. Generated data-driven insights and retention recommendations based on contract type, tenure, and pricing behavior.
 
 Business Problem:
 Subscription-based telecom businesses face recurring revenue loss due to customer churn.
@@ -10,6 +10,7 @@ This project analyzes historical customer data to understand who is leaving, why
 Tools Used:
 SQL (MySQL)
 Python (Pandas, Matplotlib, Seaborn)
+Tableau
 Jupyter Notebook
 GitHub
 
